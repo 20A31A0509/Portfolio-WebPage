@@ -36,6 +36,7 @@ The Contact section provides different ways to get in touch with me. It typicall
 
 - HTML
 - CSS
+- Javascript
 
 ## Webpage Link
 
